@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courseList>
+    <course>
+        <Cno>c001</Cno>
+        <Cnm>english</Cnm>
+        <Cpt>2</Cpt>
+        <Tec>Zhao</Tec>
+        <Pla>room 101</Pla>
+        <Share>0</Share>
+    </course>
+    <course>
+        <Cno>c002</Cno>
+        <Cnm>chinese </Cnm>
+        <Cpt>2</Cpt>
+        <Tec>Qian</Tec>
+        <Pla>room 102</Pla>
+        <Share>0</Share>
+    </course>
+    <course>
+        <Cno>c003</Cno>
+        <Cnm>math </Cnm>
+        <Cpt>3</Cpt>
+        <Tec>Sun</Tec>
+        <Pla>room 103</Pla>
+        <Share>0</Share>
+    </course>
+    <course>
+        <Cno>c004</Cno>
+        <Cnm>physics</Cnm>
+        <Cpt>3</Cpt>
+        <Tec>Li</Tec>
+        <Pla>room 104</Pla>
+        <Share>0</Share>
+    </course>
+    <course>
+        <Cno>c005</Cno>
+        <Cnm>chemistry</Cnm>
+        <Cpt>2</Cpt>
+        <Tec>Zhou</Tec>
+        <Pla>room 105</Pla>
+        <Share>0</Share>
+    </course>
+    <course>
+        <Cno>c006</Cno>
+        <Cnm>biology</Cnm>
+        <Cpt>2</Cpt>
+        <Tec>Wu</Tec>
+        <Pla>room 201</Pla>
+        <Share>0</Share>
+    </course>
+    <course>
+        <Cno>c007</Cno>
+        <Cnm>history</Cnm>
+        <Cpt>2</Cpt>
+        <Tec>Chen</Tec>
+        <Pla>room 202</Pla>
+        <Share>0</Share>
+    </course>
+    <course>
+        <Cno>c008</Cno>
+        <Cnm>politics</Cnm>
+        <Cpt>2</Cpt>
+        <Tec>Wang</Tec>
+        <Pla>room 203</Pla>
+        <Share>0</Share>
+    </course>
+    <course>
+        <Cno>c009</Cno>
+        <Cnm>computer science</Cnm>
+        <Cpt>3</Cpt>
+        <Tec>Zhao</Tec>
+        <Pla>room 204</Pla>
+        <Share>0</Share>
+    </course>
+    <course>
+        <Cno>c010</Cno>
+        <Cnm>art</Cnm>
+        <Cpt>2</Cpt>
+        <Tec>Qian</Tec>
+        <Pla>room 205</Pla>
+        <Share>0</Share>
+    </course>
+</courseList>

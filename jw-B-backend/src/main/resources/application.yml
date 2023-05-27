@@ -1,0 +1,25 @@
+server:
+  port: 10021
+spring:
+  application:
+    # 应用名称，可选
+    name: jw-b
+  datasource:
+    druid:
+      driver-class-name: oracle.jdbc.driver.OracleDriver
+      url: jdbc:oracle:thin:@localhost:1521:orcl
+      username: root
+      password: root
+mybatis-plus:
+  configuration:
+    #在映射实体或者属性时，将数据库中表名和字段名中的下划线去掉，按照驼峰命名法映射
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: ASSIGN_ID
+jwt:
+  secret: 6e12d69c-af21-4cc2-b32d-3fa949b50106
+  expire: 86400000
+mypath:
+  integrate: http://127.0.0.1:10023/courses/b/others
